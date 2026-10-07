@@ -1,0 +1,4 @@
+machine_id,temperature_mean,temperature_min,temperature_max,vibration_mean,vibration_min,vibration_max,row_count
+Machine_A,62.02,56.17,84.17,2.4,1.29,7.64,4359
+Machine_B,68.35,58.72,90.41,3.46,1.59,8.84,4368
+Machine_C,66.02,59.8,85.54,2.91,1.92,8.46,4362

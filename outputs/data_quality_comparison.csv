@@ -1,0 +1,3 @@
+stage,rows,missing_values,duplicate_rows
+Before cleaning,13089,789,129
+After cleaning,12960,0,0
